@@ -7,7 +7,7 @@ jobs:
     steps:
     - checkout
     - run: date && ls -a
-    - run: date
+    - run: date && ls
     - run: date
     - run: date
     - run: date && ls -a
